@@ -1,5 +1,9 @@
 # Custom Chat Bot with Embeddings - Paul's Online Notes (Undergraduate Calculus)
 
+Examples use undergraduate calculus notes from Paul's Online Notes, but can be modified to create embeddings of and query your own content (ex: university course notes).
+
+First-time Jupyter extension users will need to install [Node.js](https://nodejs.org/en/download).
+
 Used the following tutorials:
 - https://github.com/openai/openai-cookbook/blob/9dad13d05b87ccc2af9c2eea75ce8458906d7fd1/examples/Embedding_Wikipedia_articles_for_search.ipynb
 - https://github.com/openai/openai-cookbook/blob/main/examples/Question_answering_using_embeddings.ipynb
