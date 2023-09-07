@@ -1,4 +1,4 @@
-# Custom Chat Bot with Embeddings
+# Custom Chat Bot with Embeddings - Paul's Online Notes (Undergraduate Calculus)
 
 Used the following tutorials:
 - https://github.com/openai/openai-cookbook/blob/9dad13d05b87ccc2af9c2eea75ce8458906d7fd1/examples/Embedding_Wikipedia_articles_for_search.ipynb
