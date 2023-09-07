@@ -9,4 +9,4 @@ Content for examples (Calculus.pdf):
 - https://tutorial.math.lamar.edu/Classes/CalcII/CalcII.aspx
 - https://tutorial.math.lamar.edu/Classes/CalcIII/CalcIII.aspx
 
-  Screenshots of notebooks included to show rendering of widgets.
+Screenshots of notebooks included to show rendering of widgets.
